@@ -2,7 +2,8 @@
 > 相关文章网上已经很多了，趁 3.0 没出跟风打个卡
 
 ### 前言
-本文只做简单介绍，结合代码食用更佳：[github/vue-learn-source-code](https://github.com/reclay/vue-learn-source-code.git)
+本文只做简单介绍，结合代码食用更佳：[github/vue-learn-source-code](https://github.com/reclay/vue-learn-source-code.git)  
+效果预览：[github pages](https://reclay.github.io/vue-learn-source-code/)  
 
 ### Object.defineProperty
 defineProperty 让我们可以劫持某个属性的 getter 和 setter，举个例子：
